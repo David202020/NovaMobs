@@ -1,6 +1,6 @@
--# ✨NovaMobs✨ 
+# ✨NovaMobs✨ 
   
- -Development: **[PikyCZ](https://github.com/PikyCZ)**
+ Development: **[PikyCZ](https://github.com/PikyCZ)**
   
   [![Github All Releases](https://img.shields.io/github/downloads/PikyCZ/NovaMobs/total.svg)](https://github.com/PikyCZ/NovaMobs/releases)
   [![GitHub release](https://img.shields.io/github/release/PikyCZ/NovaMobs.svg)](https://github.com/PikyCZ/NovaMobs/releases/latest)
