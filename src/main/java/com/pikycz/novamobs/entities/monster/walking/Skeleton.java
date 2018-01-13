@@ -108,7 +108,6 @@ public class Skeleton extends WalkingMonster {
         pk.eid = this.getId();
         pk.item = new ItemBow();
         pk.hotbarSlot = 10;
-        pk.inventorySlot = 10;
         player.dataPacket(pk);
     }
 
